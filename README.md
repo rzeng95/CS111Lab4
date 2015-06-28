@@ -1,4 +1,4 @@
-##CS111 Spring '15 Lab 4: P2P Communication &amp; Security 
+##CS111 Spring '15 Lab 4: Trackers, Peers, Security
 
 Roland Zeng  
 Daniel Ong
